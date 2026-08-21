@@ -1,4 +1,11 @@
-## Hi there 👋
+
+HI
+I'm **Sara Dahbi**, a Master's student in Computer Science, specializing in **Artificial Intelligence**.
+
+I'm passionate about technology and enjoy exploring different areas of computer science, especially **Artificial Intelligence, Machine Learning, and Deep Learning**. 
+I also have a strong interest in **software development**, from backend systems to frontend applications.
+I'm always curious to learn, build new projects, and improve my skills through hands-on experience. 
+
 
 <!--
 **SaraDahbi/SaraDahbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
